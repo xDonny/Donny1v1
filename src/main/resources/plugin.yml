@@ -1,0 +1,7 @@
+name: Donny_1v1
+main: net.donnycraft.dev.OneVOnePlugin
+version: ${version}
+commands:
+  1v1:
+    description: Starts a 1v1 PvP battle
+    usage: "Usage: '/1v1 player_name' to challenge a player"
